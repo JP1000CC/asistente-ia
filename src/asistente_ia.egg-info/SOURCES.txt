@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/asistente_ia/__init__.py
+src/asistente_ia/core.py
+src/asistente_ia.egg-info/PKG-INFO
+src/asistente_ia.egg-info/SOURCES.txt
+src/asistente_ia.egg-info/dependency_links.txt
+src/asistente_ia.egg-info/top_level.txt
+tests/test_smoke.py

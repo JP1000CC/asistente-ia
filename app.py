@@ -1,3 +1,5 @@
+from asistente_ia.core import hello
+
 import json
 import requests
 import streamlit as st
@@ -5,8 +7,8 @@ import streamlit as st
 OLLAMA_CHAT_URL = "http://localhost:11434/api/chat"
 DEFAULT_MODEL = "llama3.2:3b"
 
-st.set_page_config(page_title="Asistente local (Streamlit + Ollama)", page_icon="🤖")
-st.title("Asistente local — Streaming")
+st.set_page_config(page_title="Asistente local (Streamlit)", page_icon="🤖")
+st.title("Asistente local - IA")
 
 # Sidebar
 st.sidebar.header("Config")
