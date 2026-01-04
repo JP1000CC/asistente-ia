@@ -1,0 +1,7 @@
+streamlit
+sentence-transformers
+chromadb
+llama-index
+llama-index-llms-ollama
+langchain
+langchain-ollama
